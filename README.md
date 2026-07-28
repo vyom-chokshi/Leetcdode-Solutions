@@ -35,4 +35,8 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
