@@ -42,9 +42,11 @@ My accepted LeetCode solutions .
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
