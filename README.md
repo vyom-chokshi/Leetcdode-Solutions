@@ -39,4 +39,12 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1667-fix-names-in-a-table) |
+## Array
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
