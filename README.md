@@ -54,12 +54,14 @@ My accepted LeetCode solutions .
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,8 +84,14 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
