@@ -49,6 +49,7 @@ My accepted LeetCode solutions .
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ My accepted LeetCode solutions .
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -114,4 +116,16 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
