@@ -49,6 +49,7 @@ My accepted LeetCode solutions .
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
@@ -61,6 +62,7 @@ My accepted LeetCode solutions .
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +72,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -114,19 +117,23 @@ My accepted LeetCode solutions .
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,4 +166,8 @@ My accepted LeetCode solutions .
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
