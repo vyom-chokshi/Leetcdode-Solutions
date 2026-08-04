@@ -5,8 +5,11 @@ class Solution(object):
         :rtype: List[int]
         """
         nums=sorted(nums)
+        s=set(nums)
         num=[]
-        for i in range(nums[0],nums[-1]):
-            if i not in nums:
+        mn=nums[0]
+        ma=nums[-1]
+        for i in range(mn,ma):
+            if i not in s:
                 num.append(i)
         return num
