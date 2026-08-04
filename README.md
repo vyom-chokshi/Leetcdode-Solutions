@@ -54,6 +54,7 @@ My accepted LeetCode solutions .
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My accepted LeetCode solutions .
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ My accepted LeetCode solutions .
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
