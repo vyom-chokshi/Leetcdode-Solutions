@@ -18,6 +18,7 @@ My accepted LeetCode solutions .
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Database
 |  |
 | ------- |
@@ -170,4 +172,8 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
