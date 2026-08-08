@@ -89,6 +89,7 @@ My accepted LeetCode solutions .
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -194,5 +195,6 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
