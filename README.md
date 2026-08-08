@@ -196,5 +196,6 @@ My accepted LeetCode solutions .
 | ------- |
 | [0061-rotate-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
