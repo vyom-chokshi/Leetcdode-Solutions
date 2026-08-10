@@ -129,6 +129,7 @@ My accepted LeetCode solutions .
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -175,6 +176,7 @@ My accepted LeetCode solutions .
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ My accepted LeetCode solutions .
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -222,6 +225,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,8 +234,17 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
