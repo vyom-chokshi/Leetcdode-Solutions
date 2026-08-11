@@ -70,6 +70,7 @@ My accepted LeetCode solutions .
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +114,7 @@ My accepted LeetCode solutions .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -132,6 +134,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
