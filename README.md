@@ -17,6 +17,7 @@ My accepted LeetCode solutions .
 | [0450-delete-node-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My accepted LeetCode solutions .
 | [0450-delete-node-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Nim Game
 |  |
 | ------- |
