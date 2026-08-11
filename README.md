@@ -75,6 +75,7 @@ My accepted LeetCode solutions .
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ My accepted LeetCode solutions .
 | [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -95,6 +97,7 @@ My accepted LeetCode solutions .
 | [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
