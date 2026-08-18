@@ -84,6 +84,7 @@ My accepted LeetCode solutions .
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -101,6 +102,7 @@ My accepted LeetCode solutions .
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
