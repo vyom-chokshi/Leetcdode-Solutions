@@ -82,6 +82,7 @@ My accepted LeetCode solutions .
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -98,6 +99,7 @@ My accepted LeetCode solutions .
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@ My accepted LeetCode solutions .
 | [0222-count-complete-tree-nodes](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -163,6 +166,7 @@ My accepted LeetCode solutions .
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
