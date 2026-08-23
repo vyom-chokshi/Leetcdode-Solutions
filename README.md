@@ -69,6 +69,7 @@ My accepted LeetCode solutions .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
