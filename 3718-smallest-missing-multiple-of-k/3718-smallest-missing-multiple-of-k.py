@@ -5,8 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        num=set(nums)
         x=k
-        while x in nums:
+        while x in num:
             x+=k
             
         return x
