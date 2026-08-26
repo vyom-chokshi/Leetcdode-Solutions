@@ -30,6 +30,7 @@ My accepted LeetCode solutions .
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -62,6 +63,7 @@ My accepted LeetCode solutions .
 | [0199-binary-tree-right-side-view](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
@@ -90,6 +92,7 @@ My accepted LeetCode solutions .
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
+| [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
@@ -311,6 +314,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Pigeonhole Principle
 |  |
@@ -328,6 +332,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
