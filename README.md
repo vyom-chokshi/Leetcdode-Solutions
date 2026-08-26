@@ -29,6 +29,7 @@ My accepted LeetCode solutions .
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -57,6 +58,7 @@ My accepted LeetCode solutions .
 | [0102-binary-tree-level-order-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Database
 |  |
@@ -250,6 +252,7 @@ My accepted LeetCode solutions .
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -296,6 +299,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Pigeonhole Principle
 |  |
 | ------- |
