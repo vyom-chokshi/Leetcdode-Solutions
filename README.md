@@ -29,6 +29,7 @@ My accepted LeetCode solutions .
 | [0199-binary-tree-right-side-view](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -65,6 +66,7 @@ My accepted LeetCode solutions .
 | [0130-surrounded-regions](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0542-01-matrix) |
@@ -184,6 +186,7 @@ My accepted LeetCode solutions .
 | [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
@@ -348,4 +351,20 @@ My accepted LeetCode solutions .
 | [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
