@@ -59,6 +59,7 @@ My accepted LeetCode solutions .
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ My accepted LeetCode solutions .
 | [0542-01-matrix](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -367,4 +369,8 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
