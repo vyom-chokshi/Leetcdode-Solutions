@@ -21,6 +21,7 @@ My accepted LeetCode solutions .
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0130-surrounded-regions) |
@@ -87,6 +88,7 @@ My accepted LeetCode solutions .
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
+| [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -200,6 +202,7 @@ My accepted LeetCode solutions .
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -346,6 +349,7 @@ My accepted LeetCode solutions .
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -373,4 +377,8 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
