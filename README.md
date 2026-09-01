@@ -88,6 +88,7 @@ My accepted LeetCode solutions .
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
@@ -130,6 +131,7 @@ My accepted LeetCode solutions .
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
@@ -151,6 +153,7 @@ My accepted LeetCode solutions .
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -193,6 +196,7 @@ My accepted LeetCode solutions .
 | [0231-power-of-two](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -370,6 +374,7 @@ My accepted LeetCode solutions .
 | [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bézout's Lemma
 |  |
 | ------- |
