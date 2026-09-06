@@ -225,6 +225,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -266,6 +267,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
