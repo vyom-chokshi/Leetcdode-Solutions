@@ -226,6 +226,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -273,6 +274,7 @@ My accepted LeetCode solutions .
 | [0509-fibonacci-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
