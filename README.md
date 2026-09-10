@@ -103,6 +103,7 @@ My accepted LeetCode solutions .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -416,6 +418,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
