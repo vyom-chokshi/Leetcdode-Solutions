@@ -21,6 +21,7 @@ My accepted LeetCode solutions .
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ My accepted LeetCode solutions .
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -63,6 +65,7 @@ My accepted LeetCode solutions .
 | [0513-find-bottom-left-tree-value](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
