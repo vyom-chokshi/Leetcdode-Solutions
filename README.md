@@ -101,6 +101,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0047-permutations-ii) |
@@ -185,6 +186,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0016-3sum-closest](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
