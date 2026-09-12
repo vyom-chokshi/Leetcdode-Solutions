@@ -136,6 +136,7 @@ My accepted LeetCode solutions .
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -180,6 +181,7 @@ My accepted LeetCode solutions .
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -203,6 +205,7 @@ My accepted LeetCode solutions .
 | [0222-count-complete-tree-nodes](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +292,7 @@ My accepted LeetCode solutions .
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
