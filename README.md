@@ -129,6 +129,7 @@ My accepted LeetCode solutions .
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0835-image-overlap](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -404,6 +405,7 @@ My accepted LeetCode solutions .
 | [0542-01-matrix](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bézout's Lemma
