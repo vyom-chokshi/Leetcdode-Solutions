@@ -72,6 +72,7 @@ My accepted LeetCode solutions .
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -117,6 +118,7 @@ My accepted LeetCode solutions .
 | [0128-longest-consecutive-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -227,6 +229,7 @@ My accepted LeetCode solutions .
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0231-power-of-two) |
