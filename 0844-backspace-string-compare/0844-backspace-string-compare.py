@@ -3,19 +3,22 @@ class Solution:
         st=[]
         ts=[]
         for i in s:
-            st.append(i)
+            
             if i=="#":
-                st.pop()
-                if st!=[]:
+                if st:
                     st.pop()
+            else:
+                st.append(i)
+                
             
 
-        for j in t:
-            ts.append(j)
+        for j in t:            
             if j=="#":
-                ts.pop()
-                if ts!=[]:
+                if ts:
                     ts.pop()
+            else:
+                ts.append(j)
+                
                 
 
         return st==ts
