@@ -69,6 +69,7 @@ My accepted LeetCode solutions .
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -249,6 +250,7 @@ My accepted LeetCode solutions .
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0844-backspace-string-compare) |
