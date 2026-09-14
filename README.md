@@ -72,6 +72,7 @@ My accepted LeetCode solutions .
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -445,4 +446,8 @@ My accepted LeetCode solutions .
 | [0047-permutations-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0113-path-sum-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
