@@ -207,6 +207,7 @@ My accepted LeetCode solutions .
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -256,6 +257,7 @@ My accepted LeetCode solutions .
 | [0844-backspace-string-compare](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -264,6 +266,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -306,6 +309,7 @@ My accepted LeetCode solutions .
 | [0940-distinct-subsequences-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
