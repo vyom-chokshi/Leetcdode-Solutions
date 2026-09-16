@@ -242,6 +242,7 @@ My accepted LeetCode solutions .
 | [0877-stone-game](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -309,6 +310,7 @@ My accepted LeetCode solutions .
 | [0940-distinct-subsequences-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -370,6 +372,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
@@ -459,4 +462,8 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0155-min-stack) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
