@@ -10,6 +10,9 @@ class Solution:
         if target == 0:
             return n
 
+        if min(nums)>x:
+            return -1
+            
         mp = {0: -1}
 
         prefix = 0
