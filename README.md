@@ -69,6 +69,7 @@ My accepted LeetCode solutions .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -275,6 +276,7 @@ My accepted LeetCode solutions .
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -511,6 +513,7 @@ My accepted LeetCode solutions .
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
