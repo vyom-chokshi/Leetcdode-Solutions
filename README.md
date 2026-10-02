@@ -277,6 +277,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -334,6 +335,7 @@ My accepted LeetCode solutions .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0118-pascals-triangle) |
@@ -491,6 +493,7 @@ My accepted LeetCode solutions .
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0046-permutations) |
@@ -514,6 +517,7 @@ My accepted LeetCode solutions .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
