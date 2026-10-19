@@ -150,6 +150,7 @@ My accepted LeetCode solutions .
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -206,6 +207,7 @@ My accepted LeetCode solutions .
 | [0905-sort-array-by-parity](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -236,6 +238,7 @@ My accepted LeetCode solutions .
 | [0825-friends-of-appropriate-ages](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
