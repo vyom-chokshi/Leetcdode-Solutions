@@ -300,6 +300,7 @@ My accepted LeetCode solutions .
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vyom-chokshi/Leetcdode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
